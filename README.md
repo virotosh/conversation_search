@@ -1,2 +1,5 @@
-# conversation_search
-empower search with LLM
+# conversation search
+search feature for LLM
+
+
+Work in progress...
